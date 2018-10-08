@@ -1,0 +1,127 @@
+"visitn","ESCMID2","PARAM","mean","sem","N"
+"Day -1","Non-Severe","Calprotectin (ug/g)",1473.003140625,308.014587018592,64
+"Day -1","Non-Severe","Interleukin 1 Beta (ng/g)",19.5410322580645,4.9948136225745,64
+"Day -1","Non-Severe","Interleukin 1 Receptor Antagonist (ng/g)",37.1158387096774,7.09073415883436,64
+"Day -1","Non-Severe","Interleukin 23 (pg/g)",18.66303125,12.1728745761391,64
+"Day -1","Non-Severe","Interleukin 8 (ng/g)",14.0381475409836,6.42549500246373,64
+"Day -1","Non-Severe","Lactoferrin (ug/g)",106.108078125,25.4165980914405,64
+"Day -1","Non-Severe","Tumor Necrosis Factor (pg/g)",44.414375,25.124555281971,64
+"Day -1","Severe","Calprotectin (ug/g)",3515.90007692308,1262.08697336417,13
+"Day -1","Severe","Interleukin 1 Beta (ng/g)",63.4045,32.6843666884607,13
+"Day -1","Severe","Interleukin 1 Receptor Antagonist (ng/g)",87.9810909090909,34.1797059760359,13
+"Day -1","Severe","Interleukin 23 (pg/g)",0,0,13
+"Day -1","Severe","Interleukin 8 (ng/g)",97.99725,71.4489715655489,13
+"Day -1","Severe","Lactoferrin (ug/g)",333.585307692308,124.24140831887,13
+"Day -1","Severe","Tumor Necrosis Factor (pg/g)",237.343538461538,152.664467977419,13
+"Day -1",NA,"Calprotectin (ug/g)",1573.03533333333,803.745923855985,3
+"Day -1",NA,"Interleukin 1 Beta (ng/g)",21.5466666666667,16.0670620559924,3
+"Day -1",NA,"Interleukin 1 Receptor Antagonist (ng/g)",46.8693333333333,36.2567285219049,3
+"Day -1",NA,"Interleukin 23 (pg/g)",0,0,3
+"Day -1",NA,"Interleukin 8 (ng/g)",37.844,30.4293412569732,3
+"Day -1",NA,"Lactoferrin (ug/g)",107.676666666667,57.6799240300394,3
+"Day -1",NA,"Tumor Necrosis Factor (pg/g)",0,0,3
+"Day 10","Non-Severe","Calprotectin (ug/g)",603.066347826087,315.001633405842,69
+"Day 10","Non-Severe","Interleukin 1 Beta (ng/g)",6.88866666666667,4.39108761554905,69
+"Day 10","Non-Severe","Interleukin 1 Receptor Antagonist (ng/g)",29.7986231884058,10.5211503176226,69
+"Day 10","Non-Severe","Interleukin 23 (pg/g)",25.4976811594203,12.2619768820028,69
+"Day 10","Non-Severe","Interleukin 8 (ng/g)",11.4946231884058,9.75660496200023,69
+"Day 10","Non-Severe","Lactoferrin (ug/g)",21.7252898550725,5.42095513321308,69
+"Day 10","Non-Severe","Tumor Necrosis Factor (pg/g)",22.968115942029,21.5789463690208,69
+"Day 10","Severe","Calprotectin (ug/g)",1365.1603,970.300581663527,10
+"Day 10","Severe","Interleukin 1 Beta (ng/g)",45.921,45.8230114871945,10
+"Day 10","Severe","Interleukin 1 Receptor Antagonist (ng/g)",23.9773,18.7566473425942,10
+"Day 10","Severe","Interleukin 23 (pg/g)",41.7842,41.7842,10
+"Day 10","Severe","Interleukin 8 (ng/g)",71.5563,71.4848667689805,10
+"Day 10","Severe","Lactoferrin (ug/g)",47.991,32.1290594578249,10
+"Day 10","Severe","Tumor Necrosis Factor (pg/g)",11.0214,11.0214,10
+"Day 10",NA,"Calprotectin (ug/g)",351.253666666667,336.383480651837,3
+"Day 10",NA,"Interleukin 1 Beta (ng/g)",7.748,7.72600008628872,3
+"Day 10",NA,"Interleukin 1 Receptor Antagonist (ng/g)",19.3456666666667,14.25612038545,3
+"Day 10",NA,"Interleukin 23 (pg/g)",33.63,33.63,3
+"Day 10",NA,"Interleukin 8 (ng/g)",8.81133333333333,8.81133333333333,3
+"Day 10",NA,"Lactoferrin (ug/g)",37.2973333333333,36.9539396020385,3
+"Day 10",NA,"Tumor Necrosis Factor (pg/g)",19.5666666666667,19.5666666666667,3
+"Day 25","Non-Severe","Calprotectin (ug/g)",758.649796875,217.616050206807,64
+"Day 25","Non-Severe","Interleukin 1 Beta (ng/g)",8.35701587301587,4.58262899414166,64
+"Day 25","Non-Severe","Interleukin 1 Receptor Antagonist (ng/g)",18.7201111111111,4.64300625412434,64
+"Day 25","Non-Severe","Interleukin 23 (pg/g)",4.35596721311475,3.09790817507302,64
+"Day 25","Non-Severe","Interleukin 8 (ng/g)",9.15754838709677,5.32031468180408,64
+"Day 25","Non-Severe","Lactoferrin (ug/g)",40.645828125,12.0235810511647,64
+"Day 25","Non-Severe","Tumor Necrosis Factor (pg/g)",31.9330322580645,30.9585135364157,64
+"Day 25","Severe","Calprotectin (ug/g)",747.7728,296.517164416377,10
+"Day 25","Severe","Interleukin 1 Beta (ng/g)",6.52788888888889,4.8120045183445,10
+"Day 25","Severe","Interleukin 1 Receptor Antagonist (ng/g)",16.1615555555556,8.71565279494171,10
+"Day 25","Severe","Interleukin 23 (pg/g)",10.2582,10.2582,10
+"Day 25","Severe","Interleukin 8 (ng/g)",1.01755555555556,0.619983582020773,10
+"Day 25","Severe","Lactoferrin (ug/g)",45.2972,18.7626649337928,10
+"Day 25","Severe","Tumor Necrosis Factor (pg/g)",0,0,10
+"Day 25",NA,"Calprotectin (ug/g)",166.328,156.932,2
+"Day 25",NA,"Interleukin 1 Beta (ng/g)",0.1115,0.1115,2
+"Day 25",NA,"Interleukin 1 Receptor Antagonist (ng/g)",17.08,16.142,2
+"Day 25",NA,"Interleukin 23 (pg/g)",83.616,83.616,2
+"Day 25",NA,"Interleukin 8 (ng/g)",0.048,0.048,2
+"Day 25",NA,"Lactoferrin (ug/g)",11.715,11.715,2
+"Day 25",NA,"Tumor Necrosis Factor (pg/g)",0,0,2
+"Day 40","Non-Severe","Calprotectin (ug/g)",467.856274193548,142.364198866674,62
+"Day 40","Non-Severe","Interleukin 1 Beta (ng/g)",1.85022580645161,1.12330593466575,62
+"Day 40","Non-Severe","Interleukin 1 Receptor Antagonist (ng/g)",25.968564516129,9.86409253224685,62
+"Day 40","Non-Severe","Interleukin 23 (pg/g)",9.61932258064516,5.37343821343647,62
+"Day 40","Non-Severe","Interleukin 8 (ng/g)",1.88883870967742,1.4555052650255,62
+"Day 40","Non-Severe","Lactoferrin (ug/g)",27.6992903225806,9.21914478392683,62
+"Day 40","Non-Severe","Tumor Necrosis Factor (pg/g)",2.17541935483871,2.17541935483871,62
+"Day 40","Severe","Calprotectin (ug/g)",990.8865,443.655917922128,12
+"Day 40","Severe","Interleukin 1 Beta (ng/g)",3.13433333333333,2.08461613112377,12
+"Day 40","Severe","Interleukin 1 Receptor Antagonist (ng/g)",14.5261666666667,5.02147112156861,12
+"Day 40","Severe","Interleukin 23 (pg/g)",61.529,42.0605639866941,12
+"Day 40","Severe","Interleukin 8 (ng/g)",1.7645,1.07043206725418,12
+"Day 40","Severe","Lactoferrin (ug/g)",79.8418333333333,35.1807692375961,12
+"Day 40","Severe","Tumor Necrosis Factor (pg/g)",0,0,12
+"Day 40",NA,"Calprotectin (ug/g)",11.7015,0.2545,2
+"Day 40",NA,"Interleukin 1 Beta (ng/g)",0,0,2
+"Day 40",NA,"Interleukin 1 Receptor Antagonist (ng/g)",3.306,0.883,2
+"Day 40",NA,"Interleukin 23 (pg/g)",176.856,176.856,2
+"Day 40",NA,"Interleukin 8 (ng/g)",0,0,2
+"Day 40",NA,"Lactoferrin (ug/g)",0.321,0.065,2
+"Day 40",NA,"Tumor Necrosis Factor (pg/g)",0,0,2
+"Day 5","Non-Severe","Calprotectin (ug/g)",781.026356164384,179.385437826792,73
+"Day 5","Non-Severe","Interleukin 1 Beta (ng/g)",9.80811594202899,4.88443899715595,73
+"Day 5","Non-Severe","Interleukin 1 Receptor Antagonist (ng/g)",21.959875,6.90079667524739,73
+"Day 5","Non-Severe","Interleukin 23 (pg/g)",20.1475142857143,9.65567611252343,73
+"Day 5","Non-Severe","Interleukin 8 (ng/g)",9.92684507042254,5.62746788860522,73
+"Day 5","Non-Severe","Lactoferrin (ug/g)",48.1127808219178,10.5572954619986,73
+"Day 5","Non-Severe","Tumor Necrosis Factor (pg/g)",18.0225352112676,16.1533593689407,73
+"Day 5","Severe","Calprotectin (ug/g)",2350.725,912.099282044898,11
+"Day 5","Severe","Interleukin 1 Beta (ng/g)",29.2648181818182,15.187408299951,11
+"Day 5","Severe","Interleukin 1 Receptor Antagonist (ng/g)",50.5272727272727,22.9464245280138,11
+"Day 5","Severe","Interleukin 23 (pg/g)",16.4274,16.4274,11
+"Day 5","Severe","Interleukin 8 (ng/g)",128.043,110.743455153692,11
+"Day 5","Severe","Lactoferrin (ug/g)",115.224909090909,37.3859992623526,11
+"Day 5","Severe","Tumor Necrosis Factor (pg/g)",71.7747272727273,71.7747272727273,11
+"Day 5",NA,"Calprotectin (ug/g)",3715.54675,2124.90858723159,4
+"Day 5",NA,"Interleukin 1 Beta (ng/g)",65.10025,56.118737031962,4
+"Day 5",NA,"Interleukin 1 Receptor Antagonist (ng/g)",66.7105,38.1154713917678,4
+"Day 5",NA,"Interleukin 23 (pg/g)",0,0,4
+"Day 5",NA,"Interleukin 8 (ng/g)",318.601,299.435389385312,4
+"Day 5",NA,"Lactoferrin (ug/g)",145.9795,86.7256571191594,4
+"Day 5",NA,"Tumor Necrosis Factor (pg/g)",138.3205,138.3205,4
+NA,"Non-Severe","Calprotectin (ug/g)",1477.9094,442.412478928678,20
+NA,"Non-Severe","Interleukin 1 Beta (ng/g)",17.8117,8.06228723100729,20
+NA,"Non-Severe","Interleukin 1 Receptor Antagonist (ng/g)",31.0589,8.60781281679309,20
+NA,"Non-Severe","Interleukin 23 (pg/g)",26.9369,26.9369,20
+NA,"Non-Severe","Interleukin 8 (ng/g)",19.8114,13.8817177064315,20
+NA,"Non-Severe","Lactoferrin (ug/g)",124.0141,41.519084590412,20
+NA,"Non-Severe","Tumor Necrosis Factor (pg/g)",43.8021052631579,26.8730108784241,20
+NA,"Severe","Calprotectin (ug/g)",2662.05,NA,1
+NA,"Severe","Interleukin 1 Beta (ng/g)",3.016,NA,1
+NA,"Severe","Interleukin 1 Receptor Antagonist (ng/g)",10.348,NA,1
+NA,"Severe","Interleukin 23 (pg/g)",0,NA,1
+NA,"Severe","Interleukin 8 (ng/g)",2.097,NA,1
+NA,"Severe","Lactoferrin (ug/g)",100.355,NA,1
+NA,"Severe","Tumor Necrosis Factor (pg/g)",0,NA,1
+NA,NA,"Calprotectin (ug/g)",32.655,NA,1
+NA,NA,"Interleukin 1 Beta (ng/g)",0,NA,1
+NA,NA,"Interleukin 1 Receptor Antagonist (ng/g)",1.503,NA,1
+NA,NA,"Interleukin 23 (pg/g)",232.826,NA,1
+NA,NA,"Interleukin 8 (ng/g)",0,NA,1
+NA,NA,"Lactoferrin (ug/g)",0.663,NA,1
+NA,NA,"Tumor Necrosis Factor (pg/g)",0,NA,1
