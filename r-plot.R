@@ -1,5 +1,5 @@
 r <- rnorm(1000)
-r<-hist(r, col = "red")
+r<-hist(r, col = "red", main = "Histogram")
 
 library(ggplot2)
-ggsave("r.png", width = 7, height =5)
+ggsave("r-red.png", width = 7, height =5)
